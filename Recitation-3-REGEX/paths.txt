@@ -1,0 +1,14 @@
+              /dev/stdin
+              /dev/stdout
+       /bin/bash
+       /etc/profile
+              /var/mail/$USER).
+       /dev/stdout, or /dev/stderr, file descriptor 0, 1, or 2,  respectively,
+              /dev/fd/fd
+       /etc/bash.bashrc
+       /etc/bash.bash.logout
+              /etc/bash.bashrc and the personal initialization file  ~/.bashrc
+              /dev/stderr
+              /sbin''.
+              /dev/udp/host/port
+              /dev/tcp/host/port
