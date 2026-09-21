@@ -1,0 +1,38 @@
+total 1280
+drwxr-xr-x   5 alice staff    4096 Nov 10 08:12 bin
+drwxr-xr-x   2 alice staff    4096 Nov 09 14:20 etc
+drwxr-xr-x  13 alice staff    4096 Nov 11 16:45 home
+drwxr-xr-x   3 alice staff    4096 Nov 12 10:05 lib
+drwxr-xr-x   4 alice staff    4096 Nov 13 09:30 media
+drwxr-xr-x   2 alice staff    4096 Nov 14 11:00 opt
+drwxr-xr-x   3 alice staff    4096 Nov 15 12:15 proc
+drwxr-xr-x  10 alice staff    4096 Nov 16 13:20 root
+drwxr-xr-x  12 alice staff    4096 Nov 17 14:25 run
+drwxr-xr-x   2 alice staff    4096 Nov 18 15:30 sbin
+drwxr-xr-x   3 alice staff    4096 Nov 19 16:35 srv
+drwxr-xr-x  12 alice staff    4096 Nov 20 17:40 tmp
+drwxr-xr-x   2 alice staff    4096 Nov 21 18:45 usr
+drwxr-xr-x  11 alice staff    4096 Nov 22 19:50 var
+-rw-r--r--   1 alice staff      0 Nov 10 08:13 .bash_history
+-rw-r--r--   1 alice staff     31 Nov 10 08:13 .bash_profile
+-rw-r--r--   1 alice staff    200 Nov 10 08:13 .bashrc
+drwx------   2 alice staff    4096 Nov
+v 10 08:13 .local
+drwx------   3 alice staff    4096 Nov 10 08:13 .mozilla
+-rw-r--r--   1 alice staff     64 Nov 10 08:13 .profile
+-rw-r--r--   1 alice staff      0 Nov 10 08:13 .sudo_as_admin_successful
+drwx------   2 alice staff    4096 Nov 10 08:13 .ssh
+-rw-r--r--   1 alice staff     12 Nov 10 08:13 .vimrc
+drwxr-xr-x   5 bob   staff    4096 Nov 11 09:01 Documents
+drwxr-xr-x   3 bob   staff    4096 Nov 11 09:02 Downloads
+drwxr-xr-x   4 bob   staff    4096 Nov 11 09:03 Music
+-rw-r--r--   1 bob   staff     15 Nov 11 09:04 notes.txt
+lrwxrwxrwx   1 bob   staff      8 Nov 11 09:05 photo -> /tmp/photo.jpg
+drwxr-xr-x   6 charlie staff    4096 Nov 12 10:20 Projects
+-rw-r--r--   1 charlie staff     90 Nov 12 10:21 README.md
+-rw-r--r--   1 charlie staff    256 Nov 12 10:22 script.sh
+drwxr-xr-x   4 diana staff    4096 Nov 13 11:30 Pictures
+-rw-r--r--   1 diana staff     45 Nov 13 11:31 diary.txt
+lrwxrwxrwx   1 diana staff      7 Nov 13 11:32 link -> /var/log/syslog
+drwxr-xr-x   5 eve   staff    4096 Nov 14 12:40 Videos
+-rw-r--r--   1 eve   staff     33 Nov 14 12:41 movie.mp4
