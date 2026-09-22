@@ -1,3 +1,6 @@
+// id: sp3155
+// name: Serene Plummer
+
 // This is a test of how this works 
 #include <stdio.h>
 int main()
@@ -10,15 +13,10 @@ float num2 = 3.5;
 printf("The result is %f\n", num1 * num2); // this does it
 
 /* does it work? */ return 0;
-}
+} 
 
 
-/* 
-Write a one-line sed command that transforms all of the C++ style (i.e., single-line
-comments) to the C-style (i.e., multi-line comments) so that after running the
-appropriate sedcommand, the following would be output to the terminal:  
-*/
+// solution: sed 's/\/\/\(.*\)$/\/\* \1 \*\//g' myprog.c 
 
-/*
-solution: sed 's/\/\/\(.*\)$/\/\* \1 \*\//g' myprog.c 
-*/
+// Output: // comments → /* comments */
+
