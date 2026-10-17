@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Mercu/OneDrive/Desktop/CSCE 4110 - Algorithms",
-      "program": "c:/Users/Mercu/OneDrive/Desktop/CSCE 4110 - Algorithms/build/Debug/outDebug",
+      "cwd": "c:/Users/Mercu/OneDrive/Desktop/CSCE 4110 - Algorithms/rec05",
+      "program": "c:/Users/Mercu/OneDrive/Desktop/CSCE 4110 - Algorithms/rec05/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

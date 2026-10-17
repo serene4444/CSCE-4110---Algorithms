@@ -1,0 +1,4 @@
+Script started on 2026-10-01 16:02:32-05:00 [COMMAND="\" TERM="xterm-256color" TTY="/dev/cons1" COLUMNS="80" LINES="30"]
+bash: line 3: \: Is a directory
+
+Script done on 2026-10-01 16:02:32-05:00 [COMMAND_EXIT_CODE="126"]

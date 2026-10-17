@@ -1,0 +1,22 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+   Mercu     652       1 cons1    16:02:43 /usr/bin/script -q typescript 
+   Mercu     612     601 cons0    15:56:29 script -q typescript 
+   Mercu     653     652 pty1     16:02:43 sh -i 
+   Mercu     655       1 cons2    16:03:20 /usr/bin/script -q typescript 
+   Mercu     656     655 pty2     16:03:20 sh -i 
+   Mercu     601       1 cons0    15:56:27 /usr/bin/bash -lc cd '/c/Users/Mercu/OneDrive/Desktop/CSCE 4110 - Algorithms/rec05' && script -q typescript <<'EOF'
+whoami
+ps -ef > gawkfile.txt
+gawk 'NR <= 10' gawkfile.txt
+USER=trinity\mercu
+gawk -v user=\ \ ' ~ user {print}' gawkfile.txt
+gawk -v user=\ ' == user {print}' gawkfile.txt
+gawk 'NF > 8 {print NR, NF}' gawkfile.txt
+gawk 'NF > 8 {for (i = 9; i <= NF; i++) printf \%d %d %s\n\, NR, NF, }' gawkfile.txt
+gawk 'BEGIN { OFS = \\t\ } NF >= 8 { print , , , , , , ,  }' gawkfile.txt
+echo 'yourEUID Serene Plummer'
+exit
+EOF
+ 
+   Mercu     613     612 pty0     15:56:29 bash -i 
+   Mercu     657     656 pty2     16:03:27 /usr/bin/ps -ef 
